@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fonar\\Desktop\\\u0423\u0447\u0435\u0431\u0430\u041C\u043E\u044F\u041C\u0430\u0433\\OOP\\RL_1\\RGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C84C8C6A-D2AB-31CF-E46C-A7462966D7B2}|Assembly-CSharp.csproj|c:\\users\\fonar\\desktop\\\u0443\u0447\u0435\u0431\u0430\u043C\u043E\u044F\u043C\u0430\u0433\\oop\\rl_1\\rgl\\assets\\scripts\\destroyoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84C8C6A-D2AB-31CF-E46C-A7462966D7B2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestroyOnCollision.cs",
+              "DocumentMoniker": "C:\\Users\\fonar\\Desktop\\\u0423\u0447\u0435\u0431\u0430\u041C\u043E\u044F\u041C\u0430\u0433\\OOP\\RL_1\\RGL\\Assets\\Scripts\\DestroyOnCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOnCollision.cs",
+              "ToolTip": "C:\\Users\\fonar\\Desktop\\\u0423\u0447\u0435\u0431\u0430\u041C\u043E\u044F\u041C\u0430\u0433\\OOP\\RL_1\\RGL\\Assets\\Scripts\\DestroyOnCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOnCollision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:30:18.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
